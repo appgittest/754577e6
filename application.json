@@ -15,6 +15,10 @@
     {
       "id": "crudpage_1 Copy1",
       "isDefault": false
+    },
+    {
+      "id": "Child_Page",
+      "isDefault": false
     }
   ],
   "viewMode": false,
